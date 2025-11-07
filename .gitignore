@@ -1,0 +1,21 @@
+# Node modules (ignore in any subfolder)
+**/node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Environment
+.env
+
+# Editor
+.vscode/
+
+# Build output
+/dist
+/build
+
+# Backup of nested .git we created earlier
+1-12_experiments_git_backup.zip
